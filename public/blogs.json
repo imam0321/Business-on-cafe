@@ -1,59 +1,60 @@
 [
   {
-    "_id": "64ee1757be26acf131255db2",
-    "company name": "JavaJolt Cafe",
+    "id": "64ee1757be26acf131255db2",
     "picture": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-    "about": "Dive into the world of intense flavors and vibrant energy at JavaJolt Café. Our carefully curated selection of premium coffees sourced from across the globe promises to awaken your senses and invigorate your day. With a cozy and contemporary atmosphere, JavaJolt is the perfect spot to relax, recharge, and savor every sip of your favorite caffeinated creation.",
-    
+    "questions": "What's Your Concept and Theme?",
+    "ans": "Determine your startup budget, including expenses like rent, renovation, equipment, permits, and initial inventory. Ensure you have enough funding to cover both startup and ongoing operational costs.",
     "author": {
         "name": "Walsh Donaldson",
-        "picture": "http://placehold.it/32x32",
-        "registered": "2022-01-03T08"
+        "profile": "https://image.shutterstock.com/image-photo/stock-photo-head-shot-portrait-close-up-smiling-confident-businessman-wearing-glasses-looking-at-camera-250nw-1714666150.jpg",
+        "date": "02-05-2023",
+        "time": "05"
       }
     
   },
   {
-    "_id": "64ee17575b7fc438cf1c9427",
-    "company name": "BrewMasters Coffeehouse",
+    "id": "64ee17575b7fc438cf1c9427",
     "picture": "https://images.unsplash.com/photo-1600353565737-2427a1ba3d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80", 
-    "about": "Welcome to BrewMasters, a coffeehouse where the alchemy of coffee brewing is celebrated. Our team of dedicated brew masters transforms carefully selected beans into liquid gold, offering a diverse range of brewing methods that cater to all preferences. From pour-overs to cold brews, BrewMasters is a haven for coffee connoisseurs who appreciate the craftsmanship behind each cup.",
+    "questions": "What's Your Unique Selling Proposition (USP)?",
     "author": {
       "name": "Rosario Jimenez",
-      "picture": "http://placehold.it/32x32",
-      "registered": "2017-04-28T05"
+      "profile": "https://image.shutterstock.com/image-photo/stock-photo-portrait-of-smiling-red-haired-millennial-man-looking-at-camera-sitting-in-caf-or-coffeeshop-250nw-1194497251.jpg",
+      "date": "12-03-2022",
+      "time": "10"
     }
   },
   {
-    "_id": "64ee1757494716b9f796e8f3",
-    "company name": "EspressoVibes",
+    "id": "64ee1757494716b9f796e8f3",
     "picture": "https://plus.unsplash.com/premium_photo-1661875793803-92f4c8b6ae84?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1419&q=80",
-    "about": "Immerse yourself in the rhythmic pulse of EspressoVibes, where the art of espresso is elevated to perfection. Our skilled baristas craft each cup with precision, ensuring that every sip is a harmonious blend of rich aromas and bold flavors. The café's eclectic decor and laid-back ambiance make it an ideal destination for those seeking a dose of inspiration along with their coffee fix.",
+    "questions": "Are You Familiar with Regulations and Health Codes?",
     "author": {
         "name": "Mckinney Chandler",
-        "picture": "http://placehold.it/32x32",
-        "registered": "2019-12-13T02"
+        "profile": "https://image.shutterstock.com/image-photo/stock-photo-portrait-of-smiling-red-haired-millennial-man-looking-at-camera-sitting-in-caf-or-coffeeshop-250nw-1194497251.jpg",
+        "date": "09-05-2021",
+        "time": "15"
       }
   },
   {
-    "_id": "64ee1757add036532746b5b4",
-    "company name": "MochaMingle Café",
+    "id": "64ee1757add036532746b5b4",
     "picture": "https://plus.unsplash.com/premium_photo-1661901536122-72801ec13abd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1515&q=80",
-    "about": "Indulge in the velvety embrace of MochaMingle Café, where the comforting charm of mochas meets the warm embrace of community. This café is more than just a place to get your caffeine fix; it's a hub for friends and neighbors to gather, share stories, and create lasting memories. The menu boasts an array of delightful mocha variations alongside a cozy ambiance that makes everyone feel at home.",
+    "questions": "How Will You Market Your Café?",
+    "ans": "Determine your startup budget, including expenses like rent, renovation, equipment, permits, and initial inventory. Ensure you have enough funding to cover both startup and ongoing operational costs.",
     "author": {
         "name": "Mclaughlin Brown",
-        "picture": "http://placehold.it/32x32",
-        "registered": "2022-07-09T11"
+        "profile": "https://image.shutterstock.com/image-photo/stock-photo-head-shot-portrait-close-up-smiling-confident-businessman-wearing-glasses-looking-at-camera-250nw-1714666150.jpg",
+        "date": "02-05-2020",
+        "time": "05"
       }
   },
   {
-    "_id": "64ee17570d64d812154ad8a0",
-    "company name": "RoastHaven",
+    "id": "64ee17570d64d812154ad8a0",
     "picture": "https://images.unsplash.com/photo-1619273470666-807cde79d0b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
-    "about": "At RoastHaven, the journey from bean to cup is a meticulously orchestrated symphony of flavors. Our artisanal approach to roasting ensures that every bean reaches its fullest potential, resulting in coffees that embody complexity and depth. The café's rustic yet modern setting provides an inviting backdrop for enthusiasts to explore the nuances of different roasts and brews.",
+    "questions": "What's Your Budget?",
     "author": {
         "name": "Lilly Underwood",
-        "picture": "http://placehold.it/32x32",
-        "registered": "2017-01-22T04"
+        "profile": "https://image.shutterstock.com/image-photo/stock-photo-portrait-of-smiling-red-haired-millennial-man-looking-at-camera-sitting-in-caf-or-coffeeshop-250nw-1194497251.jpg",
+        "date": "02-05-2023",
+        "time": "10"
       }
   }
 ]

@@ -1,0 +1,38 @@
+.blogs-container img {
+  height: 400px;
+  width: 800px;
+  border-radius: 7px;
+}
+.blogs-auth-info{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.blogs-author{
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin-top: 10px;
+}
+.blogs-author img {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+}
+.auth-name{
+  font-size: 20px;
+  font-weight: 700;
+  padding-bottom: 5px;
+}
+.auth-detail p {
+  padding-left: 10px;
+  margin: 0;
+}
+.read{
+  color: rgba(17, 17, 17, 0.60);
+  font-size: 18px;
+  padding-right: 4px;
+}
+.read-time{
+  padding-right: 4px;
+}
