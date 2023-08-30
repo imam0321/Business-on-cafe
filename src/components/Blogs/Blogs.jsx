@@ -1,23 +1,10 @@
 import "../Blogs/Blogs.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBookmark } from "@fortawesome/free-solid-svg-icons";
-import { ToastContainer, toast } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
 
 const Blogs = ({ blog }) => {
   const { name, profile, date, time } = blog.author;
   const { picture, questions } = blog;
-  const notify = () =>
-    toast('🦄 Wow so easy!', {
-      position: "top-center",
-      autoClose: 5000,
-      hideProgressBar: false,
-      closeOnClick: true,
-      pauseOnHover: true,
-      draggable: true,
-      progress: undefined,
-      theme: "dark",
-      });
 
   return (
     <div className="blogs-container">
@@ -40,19 +27,7 @@ const Blogs = ({ blog }) => {
         </div>
         <h1>{questions}</h1>
         <div>
-          <p onClick={notify}>Mark as read</p>
-          <ToastContainer
-            position="top-center"
-            autoClose={5000}
-            hideProgressBar={false}
-            newestOnTop={false}
-            closeOnClick
-            rtl={false}
-            pauseOnFocusLoss
-            draggable
-            pauseOnHover
-            theme="dark"
-          />
+          <p>Mark as read</p>
         </div>
       </div>
     </div>

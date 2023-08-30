@@ -1,0 +1,31 @@
+.bookmark-container {
+  margin-left: 10px;
+}
+.spent-time-btn {
+  color: #6047ec;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 38.4px;
+  padding: 16px 20px;
+  border-radius: 6px;
+  border: 1px solid #6047ec;
+  background: rgba(96, 71, 236, 0.1);
+}
+.blogs-count {
+  padding-left: 20px;
+  border-radius: 6px;
+  background: rgba(17, 17, 17, 0.05);
+}
+.blogs-count p {
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 30px;
+}
+.bookmarked {
+  padding-left: 15px;
+}
+.bookmarked p {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px; /* 28.8px */
+}
