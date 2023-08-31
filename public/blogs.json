@@ -4,57 +4,46 @@
     "picture": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
     "questions": "What's Your Concept and Theme?",
     "ans": "Determine your startup budget, including expenses like rent, renovation, equipment, permits, and initial inventory. Ensure you have enough funding to cover both startup and ongoing operational costs.",
-    "author": {
-        "name": "Walsh Donaldson",
-        "profile": "https://image.shutterstock.com/image-photo/stock-photo-head-shot-portrait-close-up-smiling-confident-businessman-wearing-glasses-looking-at-camera-250nw-1714666150.jpg",
-        "date": "02-05-2023",
-        "time": "05"
-      }
-    
+    "name": "Walsh Donaldson",
+    "profile": "https://image.shutterstock.com/image-photo/stock-photo-head-shot-portrait-close-up-smiling-confident-businessman-wearing-glasses-looking-at-camera-250nw-1714666150.jpg",
+    "date": "02-05-2023",
+    "time": "05"
   },
   {
     "id": "64ee17575b7fc438cf1c9427",
     "picture": "https://images.unsplash.com/photo-1600353565737-2427a1ba3d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80", 
     "questions": "What's Your Unique Selling Proposition (USP)?",
-    "author": {
-      "name": "Rosario Jimenez",
-      "profile": "https://image.shutterstock.com/image-photo/stock-photo-portrait-of-smiling-red-haired-millennial-man-looking-at-camera-sitting-in-caf-or-coffeeshop-250nw-1194497251.jpg",
-      "date": "12-03-2022",
-      "time": "10"
-    }
+    "name": "Rosario Jimenez",
+    "profile": "https://image.shutterstock.com/image-photo/stock-photo-portrait-of-smiling-red-haired-millennial-man-looking-at-camera-sitting-in-caf-or-coffeeshop-250nw-1194497251.jpg",
+    "date": "12-03-2022",
+    "time": "10"
   },
   {
     "id": "64ee1757494716b9f796e8f3",
     "picture": "https://plus.unsplash.com/premium_photo-1661875793803-92f4c8b6ae84?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1419&q=80",
     "questions": "Are You Familiar with Regulations and Health Codes?",
-    "author": {
-        "name": "Mckinney Chandler",
-        "profile": "https://image.shutterstock.com/image-photo/stock-photo-portrait-of-smiling-red-haired-millennial-man-looking-at-camera-sitting-in-caf-or-coffeeshop-250nw-1194497251.jpg",
-        "date": "09-05-2021",
-        "time": "15"
-      }
+    "name": "Mckinney Chandler",
+    "profile": "https://image.shutterstock.com/image-photo/stock-photo-portrait-of-smiling-red-haired-millennial-man-looking-at-camera-sitting-in-caf-or-coffeeshop-250nw-1194497251.jpg",
+    "date": "09-05-2021",
+    "time": "15"
   },
   {
     "id": "64ee1757add036532746b5b4",
     "picture": "https://plus.unsplash.com/premium_photo-1661901536122-72801ec13abd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1515&q=80",
     "questions": "How Will You Market Your Café?",
     "ans": "Determine your startup budget, including expenses like rent, renovation, equipment, permits, and initial inventory. Ensure you have enough funding to cover both startup and ongoing operational costs.",
-    "author": {
-        "name": "Mclaughlin Brown",
-        "profile": "https://image.shutterstock.com/image-photo/stock-photo-head-shot-portrait-close-up-smiling-confident-businessman-wearing-glasses-looking-at-camera-250nw-1714666150.jpg",
-        "date": "02-05-2020",
-        "time": "05"
-      }
+    "name": "Mclaughlin Brown",
+    "profile": "https://image.shutterstock.com/image-photo/stock-photo-head-shot-portrait-close-up-smiling-confident-businessman-wearing-glasses-looking-at-camera-250nw-1714666150.jpg",
+    "date": "02-05-2020",
+    "time": "05"
   },
   {
     "id": "64ee17570d64d812154ad8a0",
     "picture": "https://images.unsplash.com/photo-1619273470666-807cde79d0b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
     "questions": "What's Your Budget?",
-    "author": {
-        "name": "Lilly Underwood",
-        "profile": "https://image.shutterstock.com/image-photo/stock-photo-portrait-of-smiling-red-haired-millennial-man-looking-at-camera-sitting-in-caf-or-coffeeshop-250nw-1194497251.jpg",
-        "date": "02-05-2023",
-        "time": "10"
-      }
+    "name": "Lilly Underwood",
+    "profile": "https://image.shutterstock.com/image-photo/stock-photo-portrait-of-smiling-red-haired-millennial-man-looking-at-camera-sitting-in-caf-or-coffeeshop-250nw-1194497251.jpg",
+    "date": "02-05-2023",
+    "time": "10"
   }
 ]
