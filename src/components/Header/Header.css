@@ -5,3 +5,8 @@
   padding: 10px 150px;
   margin-bottom: 20px;
 }
+@media only screen and (max-width: 600px) {
+  .header{
+    padding: 10px 10px;
+  }
+}
