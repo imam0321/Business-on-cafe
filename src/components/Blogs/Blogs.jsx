@@ -2,8 +2,9 @@ import "../Blogs/Blogs.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBookmark } from "@fortawesome/free-solid-svg-icons";
 
-const Blogs = ({ blog, handelBookmarked }) => {
-  const { picture, questions, name, profile, date, time } = blog;
+const Blogs = ({ blog, handleAddBookmarked, handleAddReadTime }) => {
+  const { picture, questions} = blog;
+  const {name, profile, date, time } = blog.author;
 
   return (
     <div className="blogs-container">
@@ -17,17 +18,15 @@ const Blogs = ({ blog, handelBookmarked }) => {
               <p>{date}</p>
             </div>
           </div>
-          <div onClick={() => handelBookmarked(blog)} className="read">
+          <div className="read">
             <span className="read-time">{time} min read</span>
-            <span>
+            <span onClick={() => handleAddBookmarked(blog)}>
               <FontAwesomeIcon icon={faBookmark} />
             </span>
           </div>
         </div>
         <h1>{questions}</h1>
-        <div>
-          <p>Mark as read</p>
-        </div>
+        <p onClick={() => handleAddReadTime(blog)}>Mark as read</p>
       </div>
     </div>
   );

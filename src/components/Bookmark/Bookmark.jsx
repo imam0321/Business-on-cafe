@@ -1,21 +1,25 @@
 import "../Bookmark/Bookmark.css";
 
-const Bookmark = ( {bookmarked}) => {
+const Bookmark = ( {bookmarked, times}) => {
 
+  let totalTime = 0;
+  for(const blog of times){
+    totalTime = totalTime + parseInt(blog.author.time);
+  }
 
-  let questions = '';
-  let time = 0;
+  let questions = [];
   for(const blog of bookmarked){
-    time = time + parseInt(blog.time);
-    questions = questions + blog.questions;
+    questions.push(blog.questions); 
   }
   return (
     <section className="bookmark-container">
-      <button className="spent-time-btn">Spent time on read : {time} min</button>
+      <button className="spent-time-btn">Spent time on read : {totalTime} min</button>
       <div className="blogs-count">
         <p>Bookmarked Blogs : {bookmarked.length}</p>
         <div className="bookmarked">
-          <p>{questions}</p>
+        {questions.map((blogQuestions, index) => (
+            <p key={index}>{blogQuestions}</p>
+          ))}
         </div>
       </div>
     </section>
